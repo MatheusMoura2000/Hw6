@@ -74,11 +74,11 @@ section {
 
 .card-header {
     background-color: rgb(48, 159, 165);
-    color: rgb(96, 42, 42);
+    color: rgb(220, 175, 213);
 }
 
 .card-body {
-    background-color: rgb(77, 20, 27);
+    background-color: rgb(227, 165, 209);
 }
 
 
@@ -96,7 +96,7 @@ section {
 }
 
 .severe {
-    background-color: red;
+    background-color: rgb(57, 83, 143);
     color: rgb(73, 36, 80);
 }
 
